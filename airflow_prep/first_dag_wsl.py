@@ -9,7 +9,7 @@ default_args = {
 }
 
 def extract():
-    print("Extracting sales data for Walmart and other stores...")
+    print("Extracting sales data for Walmart and other stores like 7 eleven...")
 
 def transform():
     print("Transforming data — calculating revenue...")
