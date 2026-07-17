@@ -1,0 +1,4 @@
+batch_size: 2000
+retry_attempt: 5
+log_level: INFO
+db_host: "lnx123.i.com"
