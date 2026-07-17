@@ -10,6 +10,7 @@ default_args = {
 
 def extract():
     print("Extracting sales data for Walmart and other stores like 7 eleven...")
+    print('Testing Git rebase ')
 
 def transform():
     print("Transforming data — calculating revenue...")
