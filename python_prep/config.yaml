@@ -1,0 +1,16 @@
+global:
+    app_name: 'SALES_PIPELINE'
+    log_dir: /home/abhishek/projects/python_prep/logs
+
+dev:
+    db_host: 'localhost'
+    db_port: 5432
+    db_name: 'dev_db'
+    max_retry: 3
+    log_level: DEBUG
+prd:
+    db_host: '132.1.0.1'
+    db_port: 5432
+    db_name: 'prd_db_name'
+    max_retry: 5
+    log_level: INFO

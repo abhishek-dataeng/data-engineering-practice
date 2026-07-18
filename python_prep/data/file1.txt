@@ -1,0 +1,9 @@
+I'm a 6+ year experienced ETL developer/ Noob Data Engineer. 
+I'm preparing for interview for job switch for data engineer. 
+Can you generate only the prompt in markdown prompting style
+to generate basic to Data Engineer job ready list of approx 70-80
+interview questions for airlflow asked for Data Engineer role as industry 
+expert or SME. questions should include coding as well as theory. Also answers
+for those questions should include the small and precise logic or theory along 
+with perfect answer to give to the interviewer.This is a new line added to the file.
+This is a new line added to the file.
