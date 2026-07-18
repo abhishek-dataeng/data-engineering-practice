@@ -165,7 +165,7 @@ pyflakes==3.4.0
 Pygments==2.20.0
 PyJWT==2.8.0
 pyparsing==3.3.2
-pyspark @ file:///home/abhishek/projects/pyspark-4.1.2.tar.gz#sha256=fa5d6159f700d0990a07f4f62df1b7449401dccee9cd7d5d6df8957530841602
+pyspark==4.1.2
 python-daemon==3.0.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.2
