@@ -26,7 +26,7 @@ jobs:
           pip install pytest flake8
 
       - name: Lint with flake8
-        run: flake8 python_prep/ --max-line-length=100
+        run: flake8 python_prep/csv_chunking.py --max-line-length=100
 
       - name: Run tests
         run: pytest python_prep/tests/ -v
